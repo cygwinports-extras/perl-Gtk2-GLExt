@@ -1,3 +1,5 @@
+Required due to changes in Glib::MakeHelper.  Already reported upstream.
+
 --- origsrc/Gtk2-GLExt-0.90/Makefile.PL	2004-10-28 19:18:43.000000000 -0500
 +++ src/Gtk2-GLExt-0.90/Makefile.PL	2008-03-17 23:30:28.953125000 -0500
 @@ -39,6 +38,8 @@
